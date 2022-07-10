@@ -4,7 +4,7 @@ body {
 
 table {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 18px;
     letter-spacing: 1px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +16,7 @@ table {
 }
 
 .mon-radius {
-    border-radius: 10px 0px 0px 0;
+    border-radius: 20px 0px 0px 0;
 }
 
 .sun-radius {
@@ -77,17 +77,17 @@ td {
 }
 
 .green-color {
-    background-color: #59ff59;
+    background-color: #21d921;
 }
 
 .salmon-color {
-    background-color: #e06b6b;
+    background-color: #df4f4f;
 }
 
 .blue-color {
-    background-color: #5bbdee;
+    background-color: #37aae3;
 }
 
 .pink-color {
-    background-color: #e4a0da;
+    background-color: #ec76da;
 }
