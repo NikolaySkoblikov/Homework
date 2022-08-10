@@ -3,14 +3,14 @@ body {
 }
 
 .container {
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .block {
-    height: 575px;
-    width: 430px;
-    background: linear-gradient(rgba(37, 35, 85, 0.75), rgba(121, 50, 209, 0.95));
-    border-radius: 5px;
+    height: 600px;
+    width: 450px;
+    background: linear-gradient(rgba(43, 85, 35, 0.75), rgba(50, 58, 209, 0.95));
+    border-radius: 10px;
     box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
     margin-left: auto;
     margin-right: auto;
@@ -35,7 +35,7 @@ body {
 .links .active a {
     padding-bottom: 5px;
     color: #ffffff;
-    border-bottom: solid 2px #ff9f10;
+    border-bottom: solid 2px #ffff10;
 }
 
 form {
@@ -74,7 +74,7 @@ form {
 
 .form-singin {
     width: 100%;
-    background-color: rgb(255, 155, 16);
+    background-color: rgb(255, 207, 16);
     border: none;
     height: 35px;
     border-radius: 20px;
